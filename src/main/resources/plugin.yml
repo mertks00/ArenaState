@@ -1,0 +1,6 @@
+name: MArena
+version: '${project.version}'
+main: me.mertks00.marena.MArena
+api-version: 1.16
+commands:
+  start:
